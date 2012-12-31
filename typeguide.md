@@ -40,15 +40,20 @@
 ### History of Type - Origins of alphabet, books, and printing
 
 ### Setting Type - Characteristics not included in Anatomy (contrast, weight, message, etc), tips on line-heights, line-lengths, and combining fonts
+* Grids
+* Vertical Rythm
 
 ## Digital Type [section-digital]
 ### Setting Type
-* Line-height
 * Ems vs pixels
+* Font Stacks
+* Font Weights (numbered scale vs key words)
+* Line-height
+
 
 ###Type Rendering
-* Cleartype
 * Anti-aliasing
+* Cleartype
 * Hinting
 
 ### Digital Services
@@ -95,26 +100,39 @@
 
 ### Online
 #### Videos
-* Off Book: Type - http://www.pbs.org/arts/gallery/off-book-episode-2-type-typography/off-book-episode-2-type-typography/
 * Helvetica - http://www.helveticafilm.com/
 * More Perfect Typography - http://vimeo.com/17079380
+* Off Book: Type - http://www.pbs.org/arts/gallery/off-book-episode-2-type-typography/off-book-episode-2-type-typography/
 * Putting Back the Face into Typeface - http://vimeo.com/19429698
 
 ####Writings
-* Thinking With Type - thinkingwithtype.com
 * Spiekermann’s Typo Tips - fontshop.com/education/pdf/typo_tips.pdf
+* Thinking With Type - thinkingwithtype.com
 * The Elements of Typographic Style Applied to the Web - webtypography.net
 
 #### Collections
-* TinyType - jordanm.co.uk/tinytype
 * Glyphosaurus - glyphosaurus.com
-* Type*Daily - typedaily.com
+* TinyType - jordanm.co.uk/tinytype
 * Type Cache - typecache.com
+* Type*Daily - typedaily.com
 * Typedia - typedia.com
 * Typophile - typophile.com
 
 #### Tools
-* The Web Font Combinator - font-combinator.com
-* Interactive Guide to Blog Typography - www.kaikkonendesign.fi/typography/
 * Explorations in Typography - explorationsintypography.com
+* FitText - fittextjs.com
+* Interactive Guide to Blog Typography - www.kaikkonendesign.fi/typography/
+* Jampersand - http://www.jampersand.com/ampersands.html
+* Just My Type (not the book) - daneden.me/type/
+* Kerntype (Method of Action) - http://type.method.ac/
+* Lettering.js - letteringjs.com
+* Modular Scale - modularscale.com
+* Open Typography - opentypography.org
+* Shape Type (Method of Action) - http://shape.method.ac/
+* The Web Font Combinator - font-combinator.com
+* Typecast - typecast.com
 * Type Connection - typeconnection.com
+* Whatfont Tool - http://chengyinliu.com/whatfont.html
+* WhatTheFont! - myfonts.com/whatthefont/
+* Wordmark It - wordmark.it
+
