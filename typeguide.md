@@ -12,7 +12,9 @@
 	2. [Online][section-references-online]
 
 ## Type Basics [section-basics]
-### Type Anatomy - Identifiable type forms and characteristics [section-basics-anatomy]
+### Type Anatomy[section-basics-anatomy]
+Identifiable type forms and characteristics
+
 * Aperture
 * Apex
 * Arm
@@ -45,25 +47,55 @@
 * Tittle
 * X-Height
 
-### History of Type - Origins of alphabet, books, and printing [section-basics-history]
+### History of Type[section-basics-history]
+Origins of alphabet, books, and printing
 
-### Setting Type - Characteristics not included in Anatomy (contrast, weight, message, etc), tips on line-heights, line-lengths, and combining fonts [section-basics-setting]
+### Setting Type[section-basics-setting]
+Characteristics not included in Anatomy (contrast, weight, message, etc), tips on line-heights, line-lengths, and combining fonts
+
+* Alignment
+	* Centered
+	* Justified
+	* Flush Left
+	* Flush Right
+* Classifications
+	* Egyption/Slab
+	* Geometric Sans-serif
+	* Humanist
+	* Humanist Sans-serif
+	* Modern
+	* Transitional
+	* Transitional Sans-serif
+* Combining Faces
+* Families
+	* Normal
+	* Italic
+	* Thin
+	* Bold
 * Grids
+* Hierarchy
 * Kerning
 * Leading
+* Numerals
+* Punctuation
+* Small Capitals
+* Super Families
 * Vertical Rythm
+* Tracking
 
 ## Digital Type [section-digital]
 ### Setting Type [section-digital-setting]
 * Ems vs pixels
 * Font Stacks
 * Font Weights (numbered scale vs key words)
+* Licensing
 * Line-height
 
 
 ###Type Rendering [section-digital-rendering]
 * Anti-aliasing
 * Cleartype
+* Font formats
 * Hinting
 
 ### Digital Services [section-digital-services]
