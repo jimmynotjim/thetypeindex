@@ -59,19 +59,13 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 	* Flush Left
 	* Flush Right
 * Classifications
-	* Egyption/Slab
-	* Geometric Sans-serif
-	* Humanist
-	* Humanist Sans-serif
-	* Modern
-	* Transitional
-	* Transitional Sans-serif
+	* Blackletter
+	* Script
+	* Serif
+	* Sans-Serif
+	* Display
 * Combining Faces
 * Families
-	* Normal
-	* Italic
-	* Thin
-	* Bold
 * Grids
 * Hierarchy
 * Kerning
@@ -82,6 +76,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Super Families
 * Vertical Rythm
 * Tracking
+* Weights and Styles
 
 ## Digital Type [section-digital]
 ### Setting Type [section-digital-setting]
@@ -125,6 +120,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * MyFonts - myfonts.com
 * Google Fonts - google.com/webfonts
 * Typekit - typekit.com
+*  &lt;Webtype&gt; - webtype.com
 
 
 ## Type References [section-references]
@@ -132,6 +128,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 #### Books
 * An Essay on Typography, Eric Gill
 * Just My Type, Simon Garfield
+* Mastering Type, Denise Bosler
 * Stop, Think, Go, Steven Heller
 * The Anatomy of Type (also published as The Geometry of Type), Stephen Coles
 * The Elements of Typographic Style, Robert Bringhurst
@@ -140,6 +137,10 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Thinking with Type, Ellen Lupton
 * Type Matters, Jim Williams
 
+#### Magazines
+* Codex
+* 8Faces
+
 ### Online [section-references-online]
 #### Videos
 * Helvetica - http://www.helveticafilm.com/
@@ -147,18 +148,22 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Off Book: Type - http://www.pbs.org/arts/gallery/off-book-episode-2-type-typography/off-book-episode-2-type-typography/
 * Putting Back the Face into Typeface - http://vimeo.com/19429698
 
-####Writings
+####Writing
 * Spiekermann’s Typo Tips - fontshop.com/education/pdf/typo_tips.pdf
 * Thinking With Type - thinkingwithtype.com
 * The Elements of Typographic Style Applied to the Web - webtypography.net
 * Secret Law of Page Harmony - http://retinart.net/graphic-design/secret-law-of-page-harmony/
 
 #### Collections
+* Beautiful Web Type - hellohappy.org/beautiful-web-type/
+* FontBook - fontfont.com/fontbook
+* Fonts in Use - fontsinuse.com
 * Glyphosaurus - glyphosaurus.com
 * TinyType - jordanm.co.uk/tinytype
 * Type Cache - typecache.com
 * Type*Daily - typedaily.com
 * Typedia - typedia.com
+* Typographica - typographica.org
 * Typophile - typophile.com
 
 #### Tools
