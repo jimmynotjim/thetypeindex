@@ -17,20 +17,25 @@ Identifiable type forms and characteristics
 
 * Aperture
 * Apex
+* Arc
 * Arm
 * Ascender
 * Axis
 * Baseline
+* Beak
 * Bowl
 * Bracket
 * Cap Line
 * Counter
 * Crossbar
+* Cross Stroke
 * Crotch
 * Descender
 * Diacritic
 * Diagonal Stroke
 * Discretionary Ligature
+* Dot
+* Double-Storey Form
 * Ear
 * Extender
 * Eye
@@ -38,12 +43,21 @@ Identifiable type forms and characteristics
 * Hairline
 * Leg
 * Ligature
+* Link
+* Lobe
+* Loop
+* Hook
 * Open Counter
 * Overshoot
+* Quaint
+* Serif
 * Shoulder
 * Spine
 * Spur
 * Stem
+* Stroke
+* Tail
+* Teardrop Terminal
 * Tittle
 * X-Height
 
