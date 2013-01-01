@@ -9,10 +9,10 @@
 *.vi
 *~
 
-*.DS_Store
 
 # OS or Editor folders
 .DS_Store
+*.DS_Store
 __MACOSX
 Thumbs.db
 .cache
@@ -36,14 +36,3 @@ nbproject
 _notes
 .sass-cache
 
-# Custom items to ignore
-.vagrant
-error_log
-advanced-cache.php
-wp-cache-config.php
-*/cgi-bin
-*/wp-content/cache
-*/wp-content/upgrade
-*/wp-content/uploads
-*/cmnMyAdm/
-backupbuddy_*
