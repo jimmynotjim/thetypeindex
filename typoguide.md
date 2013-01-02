@@ -1,4 +1,4 @@
-#Typeguide
+#Typoguide
 1. [Type Basics][section-basics] - Anatomy, History and Setting Type
 	1. [Type Anatomy][section-basics-anatomy]
 	2. [History of Type][section-basics-history]
