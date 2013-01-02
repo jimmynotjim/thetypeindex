@@ -4,6 +4,9 @@ A collection of definitions, best practices and resources on typography.
 ## Features
 TypeGuide is a series of documents that aim to introduce the foundations of typography and provide resources for further education. It will be made up of two parts, [the website][1] where anyone can easily access and search the content, and an API, available to those that would like to source the content to build their own tools.
 
+## Goal
+While teaching myself about typography I found much of the information I was looking for was missing or hard to find . As great as the web is, most of the type resources seemed to cover only the very basics or had such incredible barriers in the way of prior knowledge or closed off communities. Reading the forums of Typophile and Typedia were incredibly intimidating for someone who didn’t know what he didn’t know. I hope to bridge this gap with TypoGuideMe and create a single open resource so that everyone that shares my vision in building learning tools, doesn’t have to recreate the wheel.
+
 ## Contributing
 TypoGuideMe is an open document, it depends on contributions from the community. Feel free to add or edit sections, topics, references or details. Keep in mind that TypoGuideMe is meant to be an introductory reference for those new to typography while still being useful to those more knowledgable.
 
@@ -16,7 +19,9 @@ TypoGuideMe is released with an Attribution-NonCommercial Share Alike License. T
 
 ## Authors
 [James Wilson (@jimmynotjim)][3]
+
 [Ira Cummings (@irafcummings)][4]
+
 
 Original concept from [typecards app][5]
 
