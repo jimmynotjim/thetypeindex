@@ -16,10 +16,12 @@ TypeGuide is released with an Attribution-NonCommercial Share Alike License. Thi
 
 ## Authors
 [James Wilson (@jimmynotjim)][3]
+[Ira Cummings (@irafcummings)][4]
 
-Original concept from [typecards app][4]
+Original concept from [typecards app][5]
 
 [1]: http://typoguide.me
 [2]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 [3]: http://jimmynotjim.com
-[4]: http://typecardsapp.com
+[4]: http://iracummings.com
+[5]: http://typecardsapp.com
