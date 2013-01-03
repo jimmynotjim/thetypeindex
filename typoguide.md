@@ -194,8 +194,10 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Hoftype - hoftype.com
 * House Industries - houseind.com
 * HvD Fonts - hvdfonts.com
+* Monokrom - monokrom.no
 * Monotype (Fonts.com) - monotype.com
 * Letterror - letterror.com
+* Linotype - linotype.com
 * Typoteque - typoteque.com
 * Uppertype - uppertype.net
 
@@ -206,9 +208,13 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Font Shop - fontshop.com
 * Font Spring - fontspring.com
 * Font Squirrel - fontsquirrel.com
+* Lost Type Co-Op - losttype.com
 * MyFonts - myfonts.com
+* MobileFontFont - http://www.mobilefontfonts.com/
 * Google Fonts - google.com/webfonts
+* The League of Moveable Type - theleagueofmoveabletype.com
 * Typekit - typekit.com
+* You Work for Them - youworkforthem.com
 *  &lt;Webtype&gt; - webtype.com
 
 
@@ -218,6 +224,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * An Essay on Typography, Eric Gill
 * Just My Type, Simon Garfield
 * Mastering Type, Denise Bosler
+* Stop Stealing Sheep & Find Out How Type Works, Erik Spiekermann & E.M. Ginger
 * Stop, Think, Go, Steven Heller
 * The Anatomy of Type (also published as The Geometry of Type), Stephen Coles
 * The Elements of Typographic Style, Robert Bringhurst
@@ -238,16 +245,23 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Putting Back the Face into Typeface - http://vimeo.com/19429698
 
 ####Writing
-* Spiekermann’s Typo Tips - fontshop.com/education/pdf/typo_tips.pdf
-* Thinking With Type - thinkingwithtype.com
-* The Elements of Typographic Style Applied to the Web - webtypography.net
+* A Designer’s Guide to Webfonts - http://www.fontshop.com/education/pdf/webfonts.pdf
+* More Meaningful Typography - http://www.alistapart.com/articles/more-meaningful-typography/
+* On Web Typography - http://www.alistapart.com/articles/on-web-typography/
+* Real Web Type in Real Web Context - http://www.alistapart.com/articles/real-web-type-in-real-web-context/
 * Secret Law of Page Harmony - http://retinart.net/graphic-design/secret-law-of-page-harmony/
+* Spiekermann’s Typo Tips - fontshop.com/education/pdf/typo_tips.pdf
+* Meet Your Type - http://www.fontshop.com/education/pdf/fsfinalbook_single.pdf
+* The Elements of Typographic Style Applied to the Web - webtypography.net
+* The Origins of ABC - http://ilovetypography.com/2010/08/07/where-does-the-alphabet-come-from/
+* The Sorry State of Native App Typography Licensing - http://gazit.me/2012/12/19/mobile-app-typography.html
+* Thinking With Type - thinkingwithtype.com
 
 #### Collections
 * Beautiful Web Type - hellohappy.org/beautiful-web-type/
-* FontBook - fontfont.com/fontbook
 * Fonts in Use - fontsinuse.com
 * Glyphosaurus - glyphosaurus.com
+* I Love Typography - ilovetypography.com
 * TinyType - jordanm.co.uk/tinytype
 * Type Cache - typecache.com
 * Type*Daily - typedaily.com
@@ -256,6 +270,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Typophile - typophile.com
 
 #### Tools
+* Baseline Rythm Calculator - http://topfunky.com/baseline-rhythm-calculator/
 * Explorations in Typography - explorationsintypography.com
 * FitText - fittextjs.com
 * Interactive Guide to Blog Typography - www.kaikkonendesign.fi/typography/
@@ -265,11 +280,23 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Lettering.js - letteringjs.com
 * Modular Scale - modularscale.com
 * Open Typography - opentypography.org
+* PxtoEM - pxtoem.com
 * Shape Type (Method of Action) - http://shape.method.ac/
 * The Web Font Combinator - font-combinator.com
 * Typecast - typecast.com
 * Type Connection - typeconnection.com
+* Typetester - http://www.typetester.org/
 * Whatfont Tool - http://chengyinliu.com/whatfont.html
 * WhatTheFont! - myfonts.com/whatthefont/
 * Wordmark It - wordmark.it
 
+#### iOS Apps
+* Archetype - archetype.com
+* FontBook - fontfont.com/fontbook
+* Font Combinations - http://bonfx.com/font-combinations-app/
+* Helvetica vs Arial - https://itunes.apple.com/us/app/helvetica-vs.-arial/id399208618?mt=8
+* Kern - http://formationalliance.com/index.php?id=39
+* The Font Game - http://fontgameapp.com/
+* The Typography Manual - http://typographyapp.com
+* Typography Insight - http://typeinsight.org/
+* WhatTheFont - https://itunes.apple.com/app/whatthefont/id304304134?mt=8
