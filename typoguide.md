@@ -194,10 +194,12 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Hoftype - hoftype.com
 * House Industries - houseind.com
 * HvD Fonts - hvdfonts.com
-* Monokrom - monokrom.no
-* Monotype (Fonts.com) - monotype.com
+* Latino Type - http://www.latinotype.com/
 * Letterror - letterror.com
 * Linotype - linotype.com
+* Monokrom - monokrom.no
+* Monotype (Fonts.com) - monotype.com
+* Playtype - playtype.com
 * Typoteque - typoteque.com
 * Uppertype - uppertype.net
 
@@ -243,6 +245,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * More Perfect Typography - http://vimeo.com/17079380
 * Off Book: Type - http://www.pbs.org/arts/gallery/off-book-episode-2-type-typography/off-book-episode-2-type-typography/
 * Putting Back the Face into Typeface - http://vimeo.com/19429698
+* Universal Typography - http://vimeo.com/channels/inspireconf/56276418
 
 ####Writing
 * A Designer’s Guide to Webfonts - http://www.fontshop.com/education/pdf/webfonts.pdf
