@@ -186,6 +186,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 ####Type Founderies
 * Adobe Type - adobe.com/products/type.html
 * Dalton Maag - daltonmaag.com
+* Elsner + Flake - fonts4ever.com
 * Emigre - emigre.com
 * Exljbris - exljbris.com
 * Font Bureau - fontbureau.com
@@ -224,8 +225,10 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 ### Print [section-references-print]
 #### Books
 * An Essay on Typography, Eric Gill
+* Explorations in Typography, Carolina de Bartolo & Eric Spiekermann
 * Just My Type, Simon Garfield
 * Mastering Type, Denise Bosler
+* Mater Typographer, Jan Tschichold
 * Stop Stealing Sheep & Find Out How Type Works, Erik Spiekermann & E.M. Ginger
 * Stop, Think, Go, Steven Heller
 * The Anatomy of Type (also published as The Geometry of Type), Stephen Coles
@@ -236,6 +239,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Type Matters, Jim Williams
 
 #### Magazines
+* Baseline - baseline magazine.com
 * Codex
 * 8Faces
 
@@ -249,6 +253,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 
 ####Writing
 * A Designer’s Guide to Webfonts - http://www.fontshop.com/education/pdf/webfonts.pdf
+* Inconspicuous Verical Metrics - http://ilovetypography.com/2009/01/14/inconspicuous-vertical-metrics/
 * More Meaningful Typography - http://www.alistapart.com/articles/more-meaningful-typography/
 * On Web Typography - http://www.alistapart.com/articles/on-web-typography/
 * Real Web Type in Real Web Context - http://www.alistapart.com/articles/real-web-type-in-real-web-context/
@@ -258,7 +263,11 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * The Elements of Typographic Style Applied to the Web - webtypography.net
 * The Origins of ABC - http://ilovetypography.com/2010/08/07/where-does-the-alphabet-come-from/
 * The Sorry State of Native App Typography Licensing - http://gazit.me/2012/12/19/mobile-app-typography.html
+* The Typographic Scale - http://retinart.net/typography/typographicscale/
 * Thinking With Type - thinkingwithtype.com
+* Thirty-Four Typographic Sins - http://jimgodfreydesign.com/22/second-edition-of-typographic-sins-poster-coming-sept-24/
+* Typographic Marks Unkown - http://retinart.net/typography/marksunknown/
+* Typographic Marks Unkown II - http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/
 
 #### Collections
 * Beautiful Web Type - hellohappy.org/beautiful-web-type/
@@ -285,6 +294,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Open Typography - opentypography.org
 * PxtoEM - pxtoem.com
 * Shape Type (Method of Action) - http://shape.method.ac/
+* Subsetter - subsetter.com
 * The Web Font Combinator - font-combinator.com
 * Typecast - typecast.com
 * Type Connection - typeconnection.com
