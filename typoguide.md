@@ -105,6 +105,8 @@ Identifiable type forms and characteristics
 * Link
 * Lobe
 * Loop
+* Meanline
+	* Description: 
 * Hook
 * Open Counter
 	* Description: The partially enclosed circular or curved negative space (white space) of a letter as in c, e, m, n, or h.
@@ -278,6 +280,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Type Cache - typecache.com
 * Type*Daily - typedaily.com
 * Typedia - typedia.com
+* Type Foundries Archive - type-foundries-archive.com
 * Typographica - typographica.org
 * Typophile - typophile.com
 
@@ -288,6 +291,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Interactive Guide to Blog Typography - www.kaikkonendesign.fi/typography/
 * Jampersand - http://www.jampersand.com/ampersands.html
 * Just My Type (not the book) - daneden.me/type/
+* Kern.js - kernjs.com
 * Kerntype (Method of Action) - http://type.method.ac/
 * Lettering.js - letteringjs.com
 * Modular Scale - modularscale.com
