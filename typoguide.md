@@ -185,8 +185,9 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Hinting
 
 ### Digital Services [section-digital-services]
-####Type Founderies
+####Type Foundries
 * Adobe Type - adobe.com/products/type.html
+* Colophon Foundry - colophon-foundry.org
 * Dalton Maag - daltonmaag.com
 * Elsner + Flake - fonts4ever.com
 * Emigre - emigre.com
