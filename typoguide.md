@@ -312,7 +312,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Wordmark It - http://wordmark.it
 
 #### iOS Apps
-* Archetype - http://archetype.com
+* Archetype - http://archetypeapp.com
 * FontBook - http://fontfont.com/fontbook
 * Font Combinations - http://bonfx.com/font-combinations-app/
 * Helvetica vs Arial - https://itunes.apple.com/us/app/helvetica-vs.-arial/id399208618?mt=8
