@@ -278,6 +278,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Fonts in Use - http://fontsinuse.com
 * Glyphosaurus - http://glyphosaurus.com
 * I Love Typography - http://ilovetypography.com
+* Jampersand - http://www.jampersand.com/ampersands.html
 * Just My Type (not the book) - http://daneden.me/type/
 * Just My Type: Type Twins - http://daneden.me/type/twins
 * Type Cache - http://typecache.com
@@ -293,7 +294,6 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * FitText - http://fittextjs.com
 * Font Squirrel - http://fontsquirrel.com
 * Interactive Guide to Blog Typography - http://www.kaikkonendesign.fi/typography/
-* Jampersand - http://www.jampersand.com/ampersands.html
 * Kern.js - http://kernjs.com
 * Kerning.js - http://kerningjs.com
 * Kerntype (Method of Action) - http://type.method.ac/
