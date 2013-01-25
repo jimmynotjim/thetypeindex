@@ -242,7 +242,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Type Matters, Jim Williams
 
 #### Magazines
-* Baseline - http://baseline magazine.com
+* Baseline - http://baselinemagazine.com
 * Codex - http://codexmag.com
 * 8Faces - http://8faces.com
 
