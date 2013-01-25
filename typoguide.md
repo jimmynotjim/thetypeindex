@@ -269,6 +269,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * The Typographic Scale - http://retinart.net/typography/typographicscale/
 * Thinking With Type - http://thinkingwithtype.com
 * Thirty-Four Typographic Sins - http://jimgodfreydesign.com/22/second-edition-of-typographic-sins-poster-coming-sept-24/
+* TinyType - http://jordanm.co.uk/tinytype
 * Typographic Marks Unkown - http://retinart.net/typography/marksunknown/
 * Typographic Marks Unkown II - http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/
 
@@ -279,7 +280,6 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * I Love Typography - http://ilovetypography.com
 * Just My Type (not the book) - http://daneden.me/type/
 * Just My Type: Type Twins - http://daneden.me/type/twins
-* TinyType - http://jordanm.co.uk/tinytype
 * Type Cache - http://typecache.com
 * Type*Daily - http://typedaily.com
 * Typedia - http://typedia.com
