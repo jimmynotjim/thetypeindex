@@ -156,11 +156,15 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 	* Sans-Serif
 	* Display
 * Combining Faces
+* Contrasts
 * Families
-* Grids
+* Grids (Vertical and Baseline)
 * Hierarchy
 * Kerning
 * Leading
+* Ligatures
+* Measure
+* Modular Scale
 * Numerals
 * Punctuation
 * Small Capitals
