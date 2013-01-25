@@ -186,42 +186,42 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 
 ### Digital Services [section-digital-services]
 ####Type Foundries
-* Adobe Type - adobe.com/products/type.html
-* Colophon Foundry - colophon-foundry.org
-* Dalton Maag - daltonmaag.com
-* Elsner + Flake - fonts4ever.com
-* Emigre - emigre.com
-* Exljbris - exljbris.com
-* Font Bureau - fontbureau.com
-* FontFont (FontShop) - fontfont.com
-* Hoefler & Frere-Jones - typography.com
-* Hoftype - hoftype.com
-* House Industries - houseind.com
-* HvD Fonts - hvdfonts.com
+* Adobe Type - http://adobe.com/products/type.html
+* Colophon Foundry - http://colophon-foundry.org
+* Dalton Maag - http://daltonmaag.com
+* Elsner + Flake - http://fonts4ever.com
+* Emigre - http://emigre.com
+* Exljbris - http://exljbris.com
+* Font Bureau - http://fontbureau.com
+* FontFont (FontShop) - http://fontfont.com
+* Hoefler & Frere-Jones - http://typography.com
+* Hoftype - http://hoftype.com
+* House Industries - http://houseind.com
+* HvD Fonts - http://hvdfonts.com
 * Latino Type - http://www.latinotype.com/
-* Letterror - letterror.com
-* Linotype - linotype.com
-* Monokrom - monokrom.no
-* Monotype (Fonts.com) - monotype.com
-* Playtype - playtype.com
-* Typoteque - typoteque.com
-* Uppertype - uppertype.net
+* Letterror - http://letterror.com
+* Linotype - http://linotype.com
+* Monokrom - http://monokrom.no
+* Monotype (Fonts.com) - http://monotype.com
+* Playtype - http://playtype.com
+* Typoteque - http://typoteque.com
+* Uppertype - http://uppertype.net
 
 #### Type Vendors (including webfont services)
-* Fonts.com - fonts.com
-* Font Deck - fontdeck.com
-* Font Haus - fonthaus.com
-* Font Shop - fontshop.com
-* Font Spring - fontspring.com
-* Font Squirrel - fontsquirrel.com
-* Lost Type Co-Op - losttype.com
-* MyFonts - myfonts.com
+* Fonts.com - http://fonts.com
+* Font Deck - http://fontdeck.com
+* Font Haus - http://fonthaus.com
+* Font Shop - http://fontshop.com
+* Font Spring - http://fontspring.com
+* Font Squirrel - http://fontsquirrel.com
+* Lost Type Co-Op - http://losttype.com
+* MyFonts - http://myfonts.com
 * MobileFontFont - http://www.mobilefontfonts.com/
-* Google Fonts - google.com/webfonts
-* The League of Moveable Type - theleagueofmoveabletype.com
-* Typekit - typekit.com
-* You Work for Them - youworkforthem.com
-*  &lt;Webtype&gt; - webtype.com
+* Google Fonts - http://google.com/webfonts
+* The League of Moveable Type - http://theleagueofmoveabletype.com
+* Typekit - http://typekit.com
+* You Work for Them - http://youworkforthem.com
+*  &lt;Webtype&gt; - http://webtype.com
 
 
 ## Type References [section-references]
@@ -242,9 +242,9 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Type Matters, Jim Williams
 
 #### Magazines
-* Baseline - baseline magazine.com
-* Codex
-* 8Faces
+* Baseline - http://baseline magazine.com
+* Codex - http://codexmag.com
+* 8Faces - http://8faces.com
 
 ### Online [section-references-online]
 #### Videos
@@ -261,56 +261,59 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * On Web Typography - http://www.alistapart.com/articles/on-web-typography/
 * Real Web Type in Real Web Context - http://www.alistapart.com/articles/real-web-type-in-real-web-context/
 * Secret Law of Page Harmony - http://retinart.net/graphic-design/secret-law-of-page-harmony/
-* Spiekermann’s Typo Tips - fontshop.com/education/pdf/typo_tips.pdf
+* Spiekermann’s Typo Tips - http://fontshop.com/education/pdf/typo_tips.pdf
 * Meet Your Type - http://www.fontshop.com/education/pdf/fsfinalbook_single.pdf
-* The Elements of Typographic Style Applied to the Web - webtypography.net
+* The Elements of Typographic Style Applied to the Web - http://webtypography.net
 * The Origins of ABC - http://ilovetypography.com/2010/08/07/where-does-the-alphabet-come-from/
 * The Sorry State of Native App Typography Licensing - http://gazit.me/2012/12/19/mobile-app-typography.html
 * The Typographic Scale - http://retinart.net/typography/typographicscale/
-* Thinking With Type - thinkingwithtype.com
+* Thinking With Type - http://thinkingwithtype.com
 * Thirty-Four Typographic Sins - http://jimgodfreydesign.com/22/second-edition-of-typographic-sins-poster-coming-sept-24/
 * Typographic Marks Unkown - http://retinart.net/typography/marksunknown/
 * Typographic Marks Unkown II - http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/
 
 #### Collections
-* Beautiful Web Type - hellohappy.org/beautiful-web-type/
-* Fonts in Use - fontsinuse.com
-* Glyphosaurus - glyphosaurus.com
-* I Love Typography - ilovetypography.com
-* TinyType - jordanm.co.uk/tinytype
-* Type Cache - typecache.com
-* Type*Daily - typedaily.com
-* Typedia - typedia.com
-* Type Foundries Archive - type-foundries-archive.com
-* Typographica - typographica.org
-* Typophile - typophile.com
+* Beautiful Web Type - http://hellohappy.org/beautiful-web-type/
+* Fonts in Use - http://fontsinuse.com
+* Glyphosaurus - http://glyphosaurus.com
+* I Love Typography - http://ilovetypography.com
+* Just My Type (not the book) - http://daneden.me/type/
+* Just My Type: Type Twins - http://daneden.me/type/twins
+* TinyType - http://jordanm.co.uk/tinytype
+* Type Cache - http://typecache.com
+* Type*Daily - http://typedaily.com
+* Typedia - http://typedia.com
+* Type Foundries Archive - http://type-foundries-archive.com
+* Typographica - http://typographica.org
+* Typophile - http://typophile.com
 
 #### Tools
 * Baseline Rythm Calculator - http://topfunky.com/baseline-rhythm-calculator/
-* Explorations in Typography - explorationsintypography.com
-* FitText - fittextjs.com
-* Interactive Guide to Blog Typography - www.kaikkonendesign.fi/typography/
+* Explorations in Typography - http://explorationsintypography.com
+* FitText - http://fittextjs.com
+* Font Squirrel - http://fontsquirrel.com
+* Interactive Guide to Blog Typography - http://www.kaikkonendesign.fi/typography/
 * Jampersand - http://www.jampersand.com/ampersands.html
-* Just My Type (not the book) - daneden.me/type/
-* Kern.js - kernjs.com
+* Kern.js - http://kernjs.com
+* Kerning.js - http://kerningjs.com
 * Kerntype (Method of Action) - http://type.method.ac/
-* Lettering.js - letteringjs.com
-* Modular Scale - modularscale.com
-* Open Typography - opentypography.org
-* PxtoEM - pxtoem.com
+* Lettering.js - http://letteringjs.com
+* Modular Scale - http://modularscale.com
+* Open Typography - http://opentypography.org
+* PxtoEM - http://pxtoem.com
 * Shape Type (Method of Action) - http://shape.method.ac/
-* Subsetter - subsetter.com
-* The Web Font Combinator - font-combinator.com
-* Typecast - typecast.com
-* Type Connection - typeconnection.com
+* Subsetter - http://subsetter.com
+* The Web Font Combinator - http://font-combinator.com
+* Typecast - http://typecast.com
+* Type Connection - http://typeconnection.com
 * Typetester - http://www.typetester.org/
 * Whatfont Tool - http://chengyinliu.com/whatfont.html
-* WhatTheFont! - myfonts.com/whatthefont/
-* Wordmark It - wordmark.it
+* WhatTheFont! - http://myfonts.com/whatthefont/
+* Wordmark It - http://wordmark.it
 
 #### iOS Apps
-* Archetype - archetype.com
-* FontBook - fontfont.com/fontbook
+* Archetype - http://archetype.com
+* FontBook - http://fontfont.com/fontbook
 * Font Combinations - http://bonfx.com/font-combinations-app/
 * Helvetica vs Arial - https://itunes.apple.com/us/app/helvetica-vs.-arial/id399208618?mt=8
 * Kern - http://formationalliance.com/index.php?id=39
