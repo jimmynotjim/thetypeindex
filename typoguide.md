@@ -231,19 +231,25 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 ## Type References [section-references]
 ### Print [section-references-print]
 #### Books
+* The Anatomy of Type (also published as The Geometry of Type), Stephen Coles
 * An Essay on Typography, Eric Gill
+* Cultural Connectives, Rana Abou Rjeily
+* The Elements of Typographic Style, Robert Bringhurst
 * Explorations in Typography, Carolina de Bartolo & Eric Spiekermann
+* The Form of the Book, Hajo Hadeler
+* I Wonder, Marian Bantjes
 * Just My Type, Simon Garfield
 * Mastering Type, Denise Bosler
 * Mater Typographer, Jan Tschichold
+* Scripts, Steven Heller
 * Stop Stealing Sheep & Find Out How Type Works, Erik Spiekermann & E.M. Ginger
 * Stop, Think, Go, Steven Heller
-* The Anatomy of Type (also published as The Geometry of Type), Stephen Coles
-* The Elements of Typographic Style, Robert Bringhurst
-* The Form of the Book, Hajo Hadeler
-* The Typographic Desk Reference, Theodore Rosendorf
 * Thinking with Type, Ellen Lupton
+* Type: A Visual History of Typefaces and Graphic Styles, Cees W. de Jong, Alston W. Purvis & Jan Tholenaar
 * Type Matters, Jim Williams
+* The Typographic Desk Reference, Theodore Rosendorf
+* Typographie: A Manual of Design, Emil Ruder
+* Typography Sketch Books, Stephen Heller, Lita Talarico
 
 #### Magazines
 * Baseline - http://baselinemagazine.com
@@ -311,6 +317,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Typecast - http://typecast.com
 * Type Connection - http://typeconnection.com
 * Typetester - http://www.typetester.org/
+* Typio - http://typ.io
 * Whatfont Tool - http://chengyinliu.com/whatfont.html
 * WhatTheFont! - http://myfonts.com/whatthefont/
 * Wordmark It - http://wordmark.it
