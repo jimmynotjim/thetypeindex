@@ -237,6 +237,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * The Elements of Typographic Style, Robert Bringhurst
 * Explorations in Typography, Carolina de Bartolo & Eric Spiekermann
 * The Form of the Book, Hajo Hadeler
+* Inside Paragraphs, Cyrus Highsmith
 * I Wonder, Marian Bantjes
 * Just My Type, Simon Garfield
 * Mastering Type, Denise Bosler
@@ -282,6 +283,8 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * TinyType - http://jordanm.co.uk/tinytype
 * Typographic Marks Unkown - http://retinart.net/typography/marksunknown/
 * Typographic Marks Unkown II - http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/
+* Typography Essentials - http://freelancefolder.com/typography-essentials-a-getting-started-guide/
+* Using OpenType font features with CSS 3: Part 1 - http://blog.fontdeck.com/post/15777165734/opentype-1
 
 #### Collections
 * Beautiful Web Type - http://hellohappy.org/beautiful-web-type/
@@ -303,6 +306,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Explorations in Typography - http://explorationsintypography.com
 * FitText - http://fittextjs.com
 * Font Squirrel - http://fontsquirrel.com
+* Golden Ration Type Calculator - http://www.pearsonified.com/typography/
 * Interactive Guide to Blog Typography - http://www.kaikkonendesign.fi/typography/
 * Kern.js - http://kernjs.com
 * Kerning.js - http://kerningjs.com
