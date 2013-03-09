@@ -263,6 +263,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * More Perfect Typography - http://vimeo.com/17079380
 * Off Book: Type - http://www.pbs.org/arts/gallery/off-book-episode-2-type-typography/off-book-episode-2-type-typography/
 * Putting Back the Face into Typeface - http://vimeo.com/19429698
+* Type on Screen - https://vimeo.com/49744848
 * Universal Typography - http://vimeo.com/channels/inspireconf/56276418
 
 ####Writing
