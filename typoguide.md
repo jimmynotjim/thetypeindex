@@ -292,6 +292,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Fonts in Use - http://fontsinuse.com
 * Glyphosaurus - http://glyphosaurus.com
 * I Love Typography - http://ilovetypography.com
+* iOS Fonts - http://iosfonts.com/
 * Jampersand - http://www.jampersand.com/ampersands.html
 * Just My Type (not the book) - http://daneden.me/type/
 * Just My Type: Type Twins - http://daneden.me/type/twins
