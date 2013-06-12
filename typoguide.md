@@ -285,6 +285,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Typographic Marks Unkown - http://retinart.net/typography/marksunknown/
 * Typographic Marks Unkown II - http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/
 * Typography Essentials - http://freelancefolder.com/typography-essentials-a-getting-started-guide/
+* Upping Your Type Game - http://jessicahische.is/talkingtype
 * Using OpenType font features with CSS 3: Part 1 - http://blog.fontdeck.com/post/15777165734/opentype-1
 
 #### Collections
@@ -305,6 +306,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 
 #### Tools
 * Baseline Rythm Calculator - http://topfunky.com/baseline-rhythm-calculator/
+* Easel Setting Type Tutorial - https://www.easel.io/tutorials/setting_type
 * Explorations in Typography - http://explorationsintypography.com
 * FitText - http://fittextjs.com
 * Font Squirrel - http://fontsquirrel.com
@@ -321,6 +323,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Subsetter - http://subsetter.com
 * The Web Font Combinator - http://font-combinator.com
 * Typecast - http://typecast.com
+* Typeplate - http://typeplate.com
 * Type Connection - http://typeconnection.com
 * Typetester - http://www.typetester.org/
 * Typio - http://typ.io
