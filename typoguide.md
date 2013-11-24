@@ -106,13 +106,13 @@ Identifiable type forms and characteristics
 * Lobe
 * Loop
 * Meanline
-	* Description: 
+	* Description:
 * Hook
 * Open Counter
 	* Description: The partially enclosed circular or curved negative space (white space) of a letter as in c, e, m, n, or h.
 	* AKA: aperture
 * Overshoot
-	* Description: If the lowercase "o" where the same height as an "x," it would appear shorter to the eye. To maintain a visually consistent size, type designers extend the tops and bottoms of certain characters beyond both the baseline and x-height for lowercase letters, or beyond the baseline and cap height for uppercase letters. 
+	* Description: If the lowercase "o" where the same height as an "x," it would appear shorter to the eye. To maintain a visually consistent size, type designers extend the tops and bottoms of certain characters beyond both the baseline and x-height for lowercase letters, or beyond the baseline and cap height for uppercase letters.
 	* Examples: Though it varies by typeface, these characters often utilize overshoot: a, c, m, o, s, A, C, O, Q, S
 * Quaint
 * Serif
@@ -263,11 +263,14 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * More Perfect Typography - http://vimeo.com/17079380
 * Off Book: Type - http://www.pbs.org/arts/gallery/off-book-episode-2-type-typography/off-book-episode-2-type-typography/
 * Putting Back the Face into Typeface - http://vimeo.com/19429698
+* The History of Typography- http://www.youtube.com/watch?v=wOgIkxAfJsk
 * Type on Screen - https://vimeo.com/49744848
 * Universal Typography - http://vimeo.com/channels/inspireconf/56276418
 
-####Writing
+#### Writing
 * A Designer’s Guide to Webfonts - http://www.fontshop.com/education/pdf/webfonts.pdf
+* Design by Numbers: Typography - https://medium.com/design-ux/2e5fd2f262e4
+* Designing Type Systems - http://ilovetypography.com/2012/04/11/designing-type-systems/
 * Inconspicuous Verical Metrics - http://ilovetypography.com/2009/01/14/inconspicuous-vertical-metrics/
 * More Meaningful Typography - http://www.alistapart.com/articles/more-meaningful-typography/
 * On Web Typography - http://www.alistapart.com/articles/on-web-typography/
@@ -284,9 +287,13 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * TinyType - http://jordanm.co.uk/tinytype
 * Typographic Marks Unkown - http://retinart.net/typography/marksunknown/
 * Typographic Marks Unkown II - http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/
+* A Typographic Refactoring - http://robots.thoughtbot.com/post/63080521162/a-typographic-refactoring
 * Typography Essentials - http://freelancefolder.com/typography-essentials-a-getting-started-guide/
 * Upping Your Type Game - http://jessicahische.is/talkingtype
 * Using OpenType font features with CSS 3: Part 1 - http://blog.fontdeck.com/post/15777165734/opentype-1
+
+#### Slides
+* Ten Top Tips for Tidier Type - https://speakerdeck.com/csswizardry/ten-top-tips-for-tidier-type/
 
 #### Collections
 * Beautiful Web Type - http://hellohappy.org/beautiful-web-type/
@@ -295,17 +302,19 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * I Love Typography - http://ilovetypography.com
 * iOS Fonts - http://iosfonts.com/
 * Jampersand - http://www.jampersand.com/ampersands.html
-* Just My Type (not the book) - http://daneden.me/type/
+* Just My Type (not the book) - http://justmytype.co
 * Just My Type: Type Twins - http://daneden.me/type/twins
 * Type Cache - http://typecache.com
 * Type*Daily - http://typedaily.com
 * Typedia - http://typedia.com
 * Type Foundries Archive - http://type-foundries-archive.com
+* Typio - http://typ.io
 * Typographica - http://typographica.org
 * Typophile - http://typophile.com
 
 #### Tools
 * Baseline Rythm Calculator - http://topfunky.com/baseline-rhythm-calculator/
+* Butterick's Practical Typography - http://practicaltypography.com/
 * Easel Setting Type Tutorial - https://www.easel.io/tutorials/setting_type
 * Explorations in Typography - http://explorationsintypography.com
 * FitText - http://fittextjs.com
@@ -322,11 +331,13 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Shape Type (Method of Action) - http://shape.method.ac/
 * Subsetter - http://subsetter.com
 * The Web Font Combinator - http://font-combinator.com
+* Tiff - http://tiff.herokuapp.com/
 * Typecast - http://typecast.com
 * Typeplate - http://typeplate.com
 * Type Connection - http://typeconnection.com
+* Type Scale - http://type-scale.com/
 * Typetester - http://www.typetester.org/
-* Typio - http://typ.io
+* Typographic Checklist - http://thetypestudio.com/fyti/typographic-checklist/
 * Whatfont Tool - http://chengyinliu.com/whatfont.html
 * WhatTheFont! - http://myfonts.com/whatthefont/
 * Wordmark It - http://wordmark.it
