@@ -258,6 +258,9 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * 8Faces - http://8faces.com
 
 ### Online [section-references-online]
+#### Podcasts
+* Type Talk - http://www.typetalk.tv/
+
 #### Videos
 * Helvetica - http://www.helveticafilm.com/
 * More Perfect Typography - http://vimeo.com/17079380
@@ -285,6 +288,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Thinking With Type - http://thinkingwithtype.com
 * Thirty-Four Typographic Sins - http://jimgodfreydesign.com/22/second-edition-of-typographic-sins-poster-coming-sept-24/
 * TinyType - http://jordanm.co.uk/tinytype
+* Typographic Design Patterns And Current Practices (2013 Edition) - http://www.smashingmagazine.com/2013/05/17/typographic-design-patterns-practices-case-study-2013/
 * Typographic Marks Unkown - http://retinart.net/typography/marksunknown/
 * Typographic Marks Unkown II - http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/
 * A Typographic Refactoring - http://robots.thoughtbot.com/post/63080521162/a-typographic-refactoring
@@ -315,6 +319,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 #### Tools
 * Baseline Rythm Calculator - http://topfunky.com/baseline-rhythm-calculator/
 * Butterick's Practical Typography - http://practicaltypography.com/
+* Character Code - http://character-code.com/
 * Easel Setting Type Tutorial - https://www.easel.io/tutorials/setting_type
 * Explorations in Typography - http://explorationsintypography.com
 * FitText - http://fittextjs.com
@@ -338,6 +343,11 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Type Scale - http://type-scale.com/
 * Typetester - http://www.typetester.org/
 * Typographic Checklist - http://thetypestudio.com/fyti/typographic-checklist/
+* Typographer's Glossary (Playtype) - https://playtype.com/index.php?q=about/typefaces/glossary
+* Typescale - http://type-scale.com/
+* Typefinder - http://www.type-finder.com/
+* Type Quest - http://typequest.org/
+* Typoguide - http://www.typogui.de/
 * Whatfont Tool - http://chengyinliu.com/whatfont.html
 * WhatTheFont! - http://myfonts.com/whatthefont/
 * Wordmark It - http://wordmark.it
