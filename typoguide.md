@@ -348,6 +348,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Typefinder - http://www.type-finder.com/
 * Type Quest - http://typequest.org/
 * Typoguide - http://www.typogui.de/
+* Typesettings - http://ianrose.me/typesettings/
 * Whatfont Tool - http://chengyinliu.com/whatfont.html
 * WhatTheFont! - http://myfonts.com/whatthefont/
 * Wordmark It - http://wordmark.it
