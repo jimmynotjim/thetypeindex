@@ -212,6 +212,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Uppertype - http://uppertype.net
 
 #### Type Vendors (including webfont services)
+* Brick - http://brick.im/
 * Fonts.com - http://fonts.com
 * Font Deck - http://fontdeck.com
 * Font Haus - http://fonthaus.com
