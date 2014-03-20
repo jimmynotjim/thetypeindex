@@ -309,6 +309,7 @@ Characteristics not included in Anatomy (contrast, weight, message, etc), tips o
 * Jampersand - http://www.jampersand.com/ampersands.html
 * Just My Type (not the book) - http://justmytype.co
 * Just My Type: Type Twins - http://daneden.me/type/twins
+* Ragged Write - http://raggedwrite.net/
 * Type Cache - http://typecache.com
 * Type*Daily - http://typedaily.com
 * Typedia - http://typedia.com
