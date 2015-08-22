@@ -1,0 +1,85 @@
+{
+  "name": "Type Foundries",
+  "entries": [
+    {
+      "name": "Adobe Type",
+      "url": "http://adobe.com/products/type.html"
+    },
+    {
+      "name": "Colophon Foundry",
+      "url": "http://colophon-foundry.org"
+    },
+    {
+      "name": "Dalton Maag",
+      "url": "http://daltonmaag.com"
+    },
+    {
+      "name": "Elsner + Flake",
+      "url": "http://fonts4ever.com"
+    },
+    {
+      "name": "Emigre",
+      "url": "http://emigre.com"
+    },
+    {
+      "name": "Exljbris",
+      "url": "http://exljbris.com"
+    },
+    {
+      "name": "Font Bureau",
+      "url": "http://fontbureau.com"
+    },
+    {
+      "name": "FontFont (FontShop)",
+      "url": "http://fontfont.com"
+    },
+    {
+      "name": "Hoefler & Frere-Jones",
+      "url": "http://typography.com"
+    },
+    {
+      "name": "Hoftype",
+      "url": "http://hoftype.com"
+    },
+    {
+      "name": "House Industries",
+      "url": "http://houseind.com"
+    },
+    {
+      "name": "HvD Fonts",
+      "url": "http://hvdfonts.com"
+    },
+    {
+      "name": "Latino Type",
+      "url": "http://www.latinotype.com/"
+    },
+    {
+      "name": "Letterror",
+      "url": "http://letterror.com"
+    },
+    {
+      "name": "Linotype",
+      "url": "http://linotype.com"
+    },
+    {
+      "name": "Monokrom",
+      "url": "http://monokrom.no"
+    },
+    {
+      "name": "Monotype (Fonts.com)",
+      "url": "http://monotype.com"
+    },
+    {
+      "name": "Playtype",
+      "url": "http://playtype.com"
+    },
+    {
+      "name": "Typoteque",
+      "url": "http://typoteque.com"
+    },
+    {
+      "name": "Uppertype",
+      "url": "http://uppertype.net"
+    }
+  ]
+}

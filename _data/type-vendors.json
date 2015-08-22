@@ -1,0 +1,65 @@
+{
+  "name": "Type Vendors (including webfont services)",
+  "entries": [
+    {
+      "name": "Brick",
+      "url": "http://brick.im/"
+    },
+    {
+      "name": "Fonts.com",
+      "url": "http://fonts.com"
+    },
+    {
+      "name": "Font Deck",
+      "url": "http://fontdeck.com"
+    },
+    {
+      "name": "Font Haus",
+      "url": "http://fonthaus.com"
+    },
+    {
+      "name": "Font Shop",
+      "url": "http://fontshop.com"
+    },
+    {
+      "name": "Font Spring",
+      "url": "http://fontspring.com"
+    },
+    {
+      "name": "Font Squirrel",
+       "url": "http://fontsquirrel.com"
+    },
+    {
+      "name": "Lost Type Co-Op",
+      "url": "http://losttype.com"
+    },
+    {
+      "name": "MyFonts",
+      "url": "http://myfonts.com"
+    },
+    {
+      "name": "MobileFontFont",
+      "url": "http://www.mobilefontfonts.com/"
+    },
+    {
+      "name": "Google Fonts",
+      "url": "http://google.com/webfonts"
+    },
+    {
+      "name": "The League of Moveable Type",
+      "url": "http://theleagueofmoveabletype.com"
+    },
+    {
+      "name": "Typekit",
+      "url": "http://typekit.com"
+    },
+    {
+      "name": "You Work for Them",
+      "url": "http://youworkforthem.com"
+    },
+    {
+      "name": "&lt;Webtype&gt;",
+      "url": "http://webtype.com"
+    }
+  ]
+}

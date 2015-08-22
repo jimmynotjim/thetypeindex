@@ -4,19 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">{{ site.data['digital-services'].name }}</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for entry in site.data['digital-services'].entries %}
+    <h2>{{ site.data[entry].name }}</h2>
+    <ol class="post-list">
+      {% for entry in site.data[entry].entries %}
+        <li>
+          <a href="{{ entry.url }}">{{ entry.name }} - {{ entry.url }}</a>
+        </li>
+      {% endfor %}
+    </ol>
+  {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
