@@ -2,10 +2,6 @@
   "name": "iOS Apps",
   "entries": [
     {
-      "name": "Archetype",
-      "url": "http://archetypeapp.com"
-    },
-    {
       "name": "FontBook",
       "url": "http://fontbook.com"
     },
@@ -19,11 +15,11 @@
     },
     {
       "name": "Kern",
-      "url": "http://formationalliance.com/index.php?id=39"
+      "url": "https://itunes.apple.com/us/app/kern/id304330441?mt=8"
     },
     {
       "name": "The Font Game",
-      "url": "http://fontgameapp.com/"
+      "url": "https://itunes.apple.com/us/app/the-font-game/id344065205?mt=8"
     },
     {
       "name": "The Typography Manual",

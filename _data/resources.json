@@ -1,0 +1,32 @@
+{
+  "name": "Resources",
+  "sections": [
+    {
+      "name": "Print Publications",
+      "slug": "print-publications",
+      "subs": [
+        "books",
+        "magazines"
+      ]
+    },
+    {
+      "name": "Online Publications",
+      "slug": "online-publications",
+      "subs": [
+        "writing",
+        "videos",
+        "podcasts",
+        "slides"
+      ]
+    },
+    {
+      "name": "Other",
+      "slug": "other",
+      "subs": [
+        "tools",
+        "collections",
+        "ios-apps"
+      ]
+    }
+  ]
+}

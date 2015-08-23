@@ -3,20 +3,24 @@
   "entries": [
     {
       "name": "The Anatomy of Type (also published as The Geometry of Type)",
-      "author": "Stephen Coles"
+      "author": "Stephen Coles",
+      "url": "http://www.amazon.com/The-Anatomy-Type-Graphic-Typefaces/dp/0062203126"
     },
     {
       "name": "An Essay on Typography",
-      "author": "Eric Gill"
+      "author": "Eric Gill",
+      "url": "http://www.amazon.com/Essay-Typography-Eric-Gill/dp/0879239506/ref=mt_paperback?_encoding=UTF8&me="
     },
     {
-      "name": "Cultural Connectives",
-      "author": "Rana Abou Rjeily"
+      "name": "Cultural Connectives: Bridging the Latin and Arabic Alphabets",
+      "author": "Rana Abou Rjeily",
+      "url": "http://www.amazon.com/Cultural-Connectives-Bridging-Arabic-Alphabets/dp/1935613138"
     },
     {
       "name": "The Elements of Typographic Style",
-      "author": "Robert Bringhurst"
-    }
+      "author": "Robert Bringhurst",
+      "url": "http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326"
+    },
     {
       "name": "Explorations in Typography",
       "author": "Carolina de Bartolo & Eric Spiekermann"

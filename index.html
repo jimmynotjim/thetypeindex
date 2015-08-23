@@ -4,19 +4,23 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">{{ site.data['digital-services'].name }}</h1>
+  <header class="page-header">
+    <h1 class="page-heading">The Type Index</h1>
 
-  {% for entry in site.data['digital-services'].entries %}
-    <h2>{{ site.data[entry].name }}</h2>
-    <ul class="post-list">
-      {% for entry in site.data[entry].entries %}
-        <li>
-          <a href="{{ entry.url }}">{{ entry.name }} - {{ entry.url }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
+    <p class="page-sub-heading">Collecting the World’s Typographic Resources</p>
+  </header>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="intro-text">Mastering typography is difficult. Even the most successful designers will say they’re always learning something new, but the first step, as always, is knowing where to begin. As a self-taught designer and developer, I found that just knowing where to turn was an incredible barrier to entry. Luckily I wasn’t detered, and as I searched (and obsessed) about typography, I collected every resources I came across.</p>
 
+  <p class="intro-text"><em>The Type Index</em> is a permanant, public home for these resources, available for everyone to access and benefit from. Whether you’re looking for Videos to watch, Books for reference, or Collections that inspire, you can find them here. Ready to get started?</p>
+
+<!--
+  <h2>Getting Started</h2>
+
+  <p>It’s never easy to get going when you don't know where the starting line is or the route follows. I’ve put together the following guide for fresh designers with wide eyes. If you’ve already got some typographic education under your belt, you’ll probably find this guide helpful, but keep in mind it’s geared to a novice audience. You might want to just dig right in to the list of resources.</p>
+
+  <p>The first real type resource, maybe even design resource, I ever found was Thinking with Type by Ellen Lupton. I had already become intersted in design, but it’s what set my course for the years that followed. From that book on, I was hooked on type.</p>
+-->
 </div>
+
+

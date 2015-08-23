@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Typographic Foundations</h1>
+  {% for section in site.data.foundations.sections %}
+    <h2>{{ section.name }}</h2>
+    <ul class="post-list">
+      {% for sub in section.subs %}
+        <li>
+          <h3>{{ site.data['sub-sections'][sub].name }}</h3>
+          <ul>
+            {% for entry in site.data['sub-sections'][sub].entries %}
+              <li>
+                {% if entry.url %}
+                  <a href="{{ entry.url }}">{{ entry.name }}{% if entry.author %}<br>By {{ entry.author }}{% endif %}</a>
+                {% else %}
+                  {{ entry.name }}{% if entry.author %}<br>By {{ entry.author }}{% endif %}
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

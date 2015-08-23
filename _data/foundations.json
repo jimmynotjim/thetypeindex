@@ -1,0 +1,26 @@
+{
+  "name": "Foundations",
+  "sections": [
+    {
+      "name": "Anatomy of a Typeface",
+      "slug": "anatomy",
+      "subs": [
+
+      ]
+    },
+    {
+      "name": "History of Type",
+      "slug": "history",
+      "subs": [
+
+      ]
+    },
+    {
+      "name": "Setting Type",
+      "slug": "setting",
+      "subs": [
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="resources">
+
+  <header class="page-header">
+    <h1 class="page-heading">Typo&shy;graphic Resources</h1>
+    <p class="page-sub-heading">A collection of resources on creating or using type.</p>
+  </header>
+
+  {% for section in site.data.resources.sections %}
+    <h2 id="{{ section.slug }}">{{ section.name }}</h2>
+    <ul class="resources-list">
+      {% for sub in section.subs %}
+        <li class="resource resource__{{ sub }}">
+          <h3 id={{ sub }}>{{ site.data['sub-sections'][sub].name }}</h3>
+          <ul class="resource-list resource-list__{{ sub }}">
+            {% for entry in site.data['sub-sections'][sub].entries %}
+              <li>
+                {% if entry.url %}
+                  <a href="{{ entry.url }}">
+                    {% if sub == 'books' %}
+                    <em>{{ entry.name }}</em>
+                    {% else %}
+                    {{ entry.name }}
+                    {% endif %}
+                  </a>
+                {% else %}
+                  {% if sub == 'books' %}
+                  <em>{{ entry.name }}</em>
+                  {% else %}
+                  {{ entry.name }}
+                  {% endif %}
+                {% endif %}
+                {% if entry.author %}<br>By {{ entry.author }}{% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
