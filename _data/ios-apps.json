@@ -1,0 +1,41 @@
+{
+  "name": "iOS Apps",
+  "entries": [
+    {
+      "name": "Archetype",
+      "url": "http://archetypeapp.com"
+    },
+    {
+      "name": "FontBook",
+      "url": "http://fontbook.com"
+    },
+    {
+      "name": "Font Combinations",
+      "url": "http://bonfx.com/font-combinations-app/"
+    },
+    {
+      "name": "Helvetica vs Arial",
+      "url": "https://itunes.apple.com/us/app/helvetica-vs.-arial/id399208618?mt=8"
+    },
+    {
+      "name": "Kern",
+      "url": "http://formationalliance.com/index.php?id=39"
+    },
+    {
+      "name": "The Font Game",
+      "url": "http://fontgameapp.com/"
+    },
+    {
+      "name": "The Typography Manual",
+      "url": "http://typographyapp.com"
+    },
+    {
+      "name": "Typography Insight",
+      "url": "http://typeinsight.org/"
+    },
+    {
+      "name": "WhatTheFont",
+      "url": "https://itunes.apple.com/app/whatthefont/id304304134?mt=8"
+    }
+  ]
+}

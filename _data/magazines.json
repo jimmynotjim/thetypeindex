@@ -1,0 +1,17 @@
+{
+  "name": "Magazines",
+  "entries": [
+    {
+      "name": "Baseline",
+      "url": "http://baselinemagazine.com"
+    },
+    {
+      "name": "Codex",
+      "url": "http://codexmag.com"
+    },
+    {
+      "name": "8Faces",
+      "url": "http://8faces.com"
+    }
+  ]
+}

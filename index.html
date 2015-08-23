@@ -8,13 +8,13 @@ layout: default
 
   {% for entry in site.data['digital-services'].entries %}
     <h2>{{ site.data[entry].name }}</h2>
-    <ol class="post-list">
+    <ul class="post-list">
       {% for entry in site.data[entry].entries %}
         <li>
           <a href="{{ entry.url }}">{{ entry.name }} - {{ entry.url }}</a>
         </li>
       {% endfor %}
-    </ol>
+    </ul>
   {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

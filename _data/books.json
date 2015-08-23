@@ -1,0 +1,85 @@
+{
+  "name": "Books",
+  "entries": [
+    {
+      "name": "The Anatomy of Type (also published as The Geometry of Type)",
+      "author": "Stephen Coles"
+    },
+    {
+      "name": "An Essay on Typography",
+      "author": "Eric Gill"
+    },
+    {
+      "name": "Cultural Connectives",
+      "author": "Rana Abou Rjeily"
+    },
+    {
+      "name": "The Elements of Typographic Style",
+      "author": "Robert Bringhurst"
+    }
+    {
+      "name": "Explorations in Typography",
+      "author": "Carolina de Bartolo & Eric Spiekermann"
+    },
+    {
+      "name": "The Form of the Book",
+      "author": "Hajo Hadeler"
+    },
+    {
+      "name": "Inside Paragraphs",
+      "author": "Cyrus Highsmith"
+    },
+    {
+      "name": "I Wonder",
+      "author": "Marian Bantjes"
+    },
+    {
+      "name": "Just My Type",
+      "author": "Simon Garfield"
+    },
+    {
+      "name": "Mastering Type",
+      "author": "Denise Bosler"
+    },
+    {
+      "name": "Mater Typographer",
+      "author": "Jan Tschichold"
+    },
+    {
+      "name": "Scripts",
+      "author": "Steven Heller"
+    },
+    {
+      "name": "Stop Stealing Sheep & Find Out How Type Works",
+      "author": "Erik Spiekermann & E.M. Ginger"
+    },
+    {
+      "name": "Stop, Think, Go",
+      "author": "Steven Heller"
+    },
+    {
+      "name": "Thinking with Type",
+      "author": "Ellen Lupton"
+    },
+    {
+      "name": "Type: A Visual History of Typefaces and Graphic Styles",
+      "author": "Cees W. de Jong, Alston W. Purvis & Jan Tholenaar"
+    },
+    {
+      "name": "Type Matters",
+      "author": "Jim Williams"
+    },
+    {
+      "name": "The Typographic Desk Reference",
+      "author": "Theodore Rosendorf"
+    },
+    {
+      "name": "Typographie: A Manual of Design",
+      "author": "Emil Ruder"
+    },
+    {
+      "name": "Typography Sketch Books",
+      "author": "Stephen Heller & Lita Talarico"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Writing",
+  "entries": [
+    {
+      "name": "A Designer’s Guide to Webfonts",
+      "url": "http://www.fontshop.com/education/pdf/webfonts.pdf"
+    },
+    {
+      "name": "Design by Numbers: Typography",
+      "url": "https://medium.com/design-ux/2e5fd2f262e4"
+    },
+    {
+      "name": "Designing Type Systems",
+      "url": "http://ilovetypography.com/2012/04/11/designing-type-systems/"
+    },
+    {
+      "name": "Inconspicuous Verical Metrics",
+      "url": "http://ilovetypography.com/2009/01/14/inconspicuous-vertical-metrics/"
+    },
+    {
+      "name": "More Meaningful Typography",
+      "url": "http://www.alistapart.com/articles/more-meaningful-typography/"
+    },
+    {
+      "name": "On Web Typography",
+      "url": "http://www.alistapart.com/articles/on-web-typography/"
+    },
+    {
+      "name": "Real Web Type in Real Web Context",
+      "url": "http://www.alistapart.com/articles/real-web-type-in-real-web-context/"
+    },
+    {
+      "name": "Secret Law of Page Harmony",
+      "url": "http://retinart.net/graphic-design/secret-law-of-page-harmony/"
+    },
+    {
+      "name": "Spiekermann’s Typo Tips",
+      "url": "http://fontshop.com/education/pdf/typo_tips.pdf"
+    },
+    {
+      "name": "Meet Your Type",
+      "url": "http://www.fontshop.com/education/pdf/fsfinalbook_single.pdf"
+    },
+    {
+      "name": "The Elements of Typographic Style Applied to the Web",
+      "url": "http://webtypography.net"
+    },
+    {
+      "name": "The Origins of ABC",
+      "url": "http://ilovetypography.com/2010/08/07/where-does-the-alphabet-come-from/"
+    },
+    {
+      "name": "The Sorry State of Native App Typography Licensing",
+      "url": "http://gazit.me/2012/12/19/mobile-app-typography.html"
+    },
+    {
+      "name": "The Typographic Scale",
+      "url": "http://retinart.net/typography/typographicscale/"
+    },
+    {
+      "name": "Thinking With Type",
+      "url": "http://thinkingwithtype.com"
+    },
+    {
+      "name": "Thirty-Four Typographic Sins",
+      "url": "http://jimgodfreydesign.com/22/second-edition-of-typographic-sins-poster-coming-sept-24/"
+    },
+    {
+      "name": "TinyType",
+      "url": "http://jordanm.co.uk/tinytype"
+    },
+    {
+      "name": "Typographic Design Patterns And Current Practices (2013 Edition)",
+      "url": "http://www.smashingmagazine.com/2013/05/17/typographic-design-patterns-practices-case-study-2013/"
+    },
+    {
+      "name": "Typographic Marks Unkown",
+      "url": "http://retinart.net/typography/marksunknown/"
+    },
+    {
+      "name": "Typographic Marks Unkown II",
+      "url": "http://retinart.net/typography/typographic-marks-unknown-ii-ligatures-blockquotes/"
+    },
+    {
+      "name": "A Typographic Refactoring",
+      "url": "http://robots.thoughtbot.com/post/63080521162/a-typographic-refactoring"
+    },
+    {
+        "name": "Typography Essentials",
+        "url": "http://freelancefolder.com/typography-essentials-a-getting-started-guide/"
+      },
+    {
+      "name": "Upping Your Type Game",
+      "url": "http://jessicahische.is/talkingtype"
+    },
+    {
+      "name": "Using OpenType font features with CSS 3: Part 1",
+      "url": "http://blog.fontdeck.com/post/15777165734/opentype-1"
+    }
+  ]
+}
