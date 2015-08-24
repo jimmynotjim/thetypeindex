@@ -11,6 +11,7 @@
 }
 
 .site-title {
+    color: $text-color;
     font-family: $brand-font-family;
     font-size: 24px;
     line-height: 56px;
@@ -18,19 +19,18 @@
     margin-bottom: 0;
     float: left;
 
-    &,
     &:visited {
-        color: #000;
+        color: $text-color;
     }
 }
 
 .site-nav {
     font-family: $sec-font-family;
-    font-weight: 500;
     float: right;
     line-height: 56px;
     text-transform: uppercase;
     font-size: 14px;
+    font-weight: 600;
 
     .menu-icon {
         display: none;
@@ -205,7 +205,7 @@
     margin-bottom: 30px;
 
     &:before {
-        border-top: 2px solid #000;
+        border-top: 1px solid $text-color;;
         content: '';
         display: block;
         width: 140px;
@@ -218,6 +218,14 @@
 
     @include media-query($on-laptop) {
         font-size: 20px;
+    }
+}
+
+.sub-section__title {
+    color: $text-color;
+
+    &:visited {
+        color: $text-color;
     }
 }
 
@@ -287,57 +295,111 @@
     }
 }
 
+.resource-grid {
+    margin-left: -$spacing-unit / 2;
+    margin-right: -$spacing-unit / 2;
+
+    @extend %clearfix;
+}
+
 .resource-col {
-    @extend .footer-col;
+    margin-bottom: $spacing-unit / 2;
+    padding: $spacing-unit / 2;
+    border: 1px solid transparent;
+
+    @include min-query($on-laptop - 1px) {
+        float: left;
+    }
 }
 
-.resource-col-wrapper {
-    @extend .footer-col-wrapper;
-}
+@mixin resource-col-divider {
+    border-right: 1px solid $grey-color-light;
 
-.resource-col-divider {
-    border-right: 1px solid #ccc;
-    padding-right: $spacing-unit / 2;
+    + .resource-col:target {
+        border-left: 1px solid transparent;
+    }
 }
 
 .resource-col-break {
-    clear: both;
+    @include min-query($on-laptop - 1px) {
+        clear: both;
+    }
 }
 
-.resource-col-1-1 {
-    width: -webkit-calc(100% - (#{$spacing-unit}) - 1px);
-    width:         calc(100% - (#{$spacing-unit}) - 1px);
+@include min-query($on-palm - 1px) {
+    .resource-col-1-2 {
+        width: -webkit-calc(50% - (#{$spacing-unit}) - 2px);
+        width:         calc(50% - (#{$spacing-unit}) - 2px);
+        float: left;
+    }
+    .resource-col-1-3 {
+        width: -webkit-calc(50% - (#{$spacing-unit}) - 2px);
+        width:         calc(50% - (#{$spacing-unit}) - 2px);
+        float: left;
+    }
 }
 
-.resource-col-1-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit}) - 1px);
-    width:         calc(50% - (#{$spacing-unit}) - 1px);
-}
+@include min-query($on-laptop - 1px) {
+    .resource-col-1-1 {
+        width: -webkit-calc(100% - (#{$spacing-unit}) - 2px);
+        width:         calc(100% - (#{$spacing-unit}) - 2px);
+    }
 
-.resource-col-1-3 {
-    width: -webkit-calc(33.33% - (#{$spacing-unit}) - 1px);
-    width:         calc(33.33% - (#{$spacing-unit}) - 1px);
-}
+    .resource-col-1-3 {
+        width: -webkit-calc(33.33% - (#{$spacing-unit}) - 2px);
+        width:         calc(33.33% - (#{$spacing-unit}) - 2px);
+    }
 
-.resource-col-2-3 {
-    width: -webkit-calc(66.66% - (#{$spacing-unit}) - 1px);
-    width:         calc(66.66% - (#{$spacing-unit}) - 1px);
+    .resource-col-2-3 {
+        width: -webkit-calc(66.66% - (#{$spacing-unit}) - 2px);
+        width:         calc(66.66% - (#{$spacing-unit}) - 2px);
+    }
 }
 
 .resources-list {
-    @extend .resource-col-wrapper;
+    @extend .resource-grid;
 
     list-style: none;
 }
-.resource {
-    @extend .resource-col;
+
+@-webkit-keyframes target-fade {
+    0% { background-color: #ddd; }
+    100% { background-color: transparent; }
+}
+@-moz-keyframes target-fade {
+    0% { background-color: #ddd; }
+    100% { background-color: transparent; }
 }
 
-.resource__books,
+.resource {
+    @extend .resource-col;
+
+    &:target {
+        border-color: $grey-color-light;
+
+        -webkit-animation: target-fade 3s 1;
+        -moz-animation: target-fade 3s 1;
+    }
+}
+
+.resource__books {
+    @extend .resource-col-1-1;
+}
+
 .resource__writing,
 .resource__tools {
     @extend .resource-col-2-3;
-    @extend .resource-col-divider;
+
+    @include min-query($on-laptop - 1px) {
+        @include resource-col-divider;
+    }
+}
+
+.resource__videos,
+.resource__collections {
+    @include range-query($on-palm - 1px, $on-laptop) {
+        @include resource-col-divider;
+    }
 }
 
 .resource-list {
@@ -349,11 +411,23 @@
     }
 }
 
-.resource-list__books,
+.resource-list__books {
+    @include min-query($on-palm - 1px) {
+        -webkit-column-count: 2;
+        -webkit-column-gap: $spacing-unit;
+    }
+
+    @include min-query($on-laptop - 1px) {
+        -webkit-column-count: 3;
+    }
+}
+
 .resource-list__writing,
 .resource-list__tools {
-    -webkit-column-count: 2;
-    -webkit-column-gap: $spacing-unit;
+    @include min-query($on-palm - 1px) {
+        -webkit-column-count: 2;
+        -webkit-column-gap: $spacing-unit;
+    }
 }
 
 .resource__magazines,
@@ -366,7 +440,7 @@
 }
 
 .resource__podcasts {
-    @extend .resource-col-divider;
+    @include resource-col-divider;
 }
 
 .resource__podcasts,
