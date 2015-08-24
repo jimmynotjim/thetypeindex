@@ -4,7 +4,7 @@
     {
       "name": "The Anatomy of Type (also published as The Geometry of Type)",
       "author": "Stephen Coles",
-      "url": "http://www.amazon.com/The-Anatomy-Type-Graphic-Typefaces/dp/0062203126"
+      "url": "http://typeanatomy.com/"
     },
     {
       "name": "An Essay on Typography",
@@ -14,7 +14,7 @@
     {
       "name": "Cultural Connectives: Bridging the Latin and Arabic Alphabets",
       "author": "Rana Abou Rjeily",
-      "url": "http://www.amazon.com/Cultural-Connectives-Bridging-Arabic-Alphabets/dp/1935613138"
+      "url": "http://rana.im/cultural-connectives/"
     },
     {
       "name": "The Elements of Typographic Style",
@@ -28,63 +28,78 @@
     },
     {
       "name": "The Form of the Book",
-      "author": "Hajo Hadeler"
+      "author": "Hajo Hadeler",
+      "url": "http://www.amazon.com/The-Form-Book-Morality-Typography/dp/0881791164"
     },
     {
       "name": "Inside Paragraphs",
-      "author": "Cyrus Highsmith"
+      "author": "Cyrus Highsmith",
+      "url": "http://insideparagraphs.com/"
     },
     {
       "name": "I Wonder",
-      "author": "Marian Bantjes"
+      "author": "Marian Bantjes",
+      "url": "http://bantjes.com/work/i-wonder/"
     },
     {
       "name": "Just My Type",
-      "author": "Simon Garfield"
+      "author": "Simon Garfield",
+      "url": "http://www.amazon.com/Just-My-Type-About-Fonts/dp/1592407463"
     },
     {
       "name": "Mastering Type",
-      "author": "Denise Bosler"
+      "author": "Denise Bosler",
+      "url": "http://www.masteringtype.com/"
     },
     {
-      "name": "Mater Typographer",
-      "author": "Jan Tschichold"
+      "name": "Master Typographer",
+      "author": "Jan Tschichold",
+      "url": "http://www.amazon.com/Jan-Tschichold-Master-Typographer-Legacy/dp/0500513988"
     },
     {
       "name": "Scripts",
-      "author": "Steven Heller"
+      "author": "Steven Heller & Louise Fili",
+      "url": "http://www.amazon.com/Scripts-Elegant-Lettering-Designs-Golden/dp/0500290393"
     },
     {
       "name": "Stop Stealing Sheep & Find Out How Type Works",
-      "author": "Erik Spiekermann & E.M. Ginger"
+      "author": "Erik Spiekermann & E.M. Ginger",
+      "url": "http://www.amazon.com/Stop-Stealing-Sheep-Works-Edition/dp/0201703394"
     },
     {
       "name": "Stop, Think, Go",
-      "author": "Steven Heller"
+      "author": "Steven Heller",
+      "url": "http://www.amazon.com/Stop-Think-Go-Typography-Influence/dp/1592537669"
     },
     {
       "name": "Thinking with Type",
-      "author": "Ellen Lupton"
+      "author": "Ellen Lupton",
+      "url": "http://www.papress.com/html/book.details.page.tpl?isbn=9781568989693"
     },
     {
       "name": "Type: A Visual History of Typefaces and Graphic Styles",
-      "author": "Cees W. de Jong, Alston W. Purvis & Jan Tholenaar"
+      "author": "Cees W. de Jong, Alston W. Purvis & Jan Tholenaar",
+      "url": "http://www.amazon.com/Type-Visual-History-Typefaces-Graphic/dp/3836544806"
     },
     {
       "name": "Type Matters",
-      "author": "Jim Williams"
+      "author": "Jim Williams",
+      "url": "http://www.amazon.com/Type-Matters-Jim-Williams/dp/1858945674"
     },
     {
       "name": "The Typographic Desk Reference",
-      "author": "Theodore Rosendorf"
+      "author": "Theodore Rosendorf",
+      "url": "http://typedeskref.com/"
     },
     {
       "name": "Typographie: A Manual of Design",
-      "author": "Emil Ruder"
+      "author": "Emil Ruder",
+      "url": "http://www.amazon.com/Typographie-Manual-Design-Emil-Ruder/dp/3721200438"
     },
     {
       "name": "Typography Sketch Books",
-      "author": "Stephen Heller & Lita Talarico"
+      "author": "Stephen Heller & Lita Talarico",
+      "url": "http://www.amazon.com/Typography-Sketchbooks-Steven-Heller/dp/1616890428"
     }
   ]
 }

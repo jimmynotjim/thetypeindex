@@ -91,13 +91,16 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
+    &:hover {
         color: darken($brand-color, 15%);
     }
 
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
+    p & {
+        @include link-underline($background-color, $brand-color, #ccc);
+
+        &:hover {
+            @include link-underline($background-color, $text-color, #ccc);
+        }
     }
 }
 

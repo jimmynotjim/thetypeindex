@@ -11,16 +11,18 @@
 }
 
 .site-title {
-    color: $text-color;
     font-family: $brand-font-family;
     font-size: 24px;
     line-height: 56px;
-    letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
-    &:visited {
+    a {
         color: $text-color;
+
+        &:hover {
+            color: $brand-color;
+        }
     }
 }
 
@@ -43,6 +45,10 @@
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
+        }
+
+        &:hover {
+            color: $brand-color;
         }
     }
 
@@ -165,7 +171,8 @@
 /**
  * Home
  */
-.home {
+.home,
+.post-content {
     max-width: $text-width;
     margin: 0 auto;
 }
