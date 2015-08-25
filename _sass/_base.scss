@@ -99,7 +99,7 @@ a {
         @include link-underline($background-color, $brand-color, #ccc);
 
         &:hover {
-            @include link-underline($background-color, $text-color, #ccc);
+            @include link-underline($background-color, darken($brand-color, 15%), #ccc);
         }
     }
 }
