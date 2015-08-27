@@ -1,5 +1,5 @@
 # [TheTypeIndex][1]
-A collection of definitions, best practices and resources on typography.
+A collection of foundations and resources on typography.
 
 ## Features
 TheTypeIndex is a series of documents that aim to introduce the foundations of typography and provide resources for further education. It will be made up of two parts, [the website][1] where anyone can easily access and search the content, and an API, available to those that would like to source the content to build their own tools.
